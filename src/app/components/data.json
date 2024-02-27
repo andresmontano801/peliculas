@@ -1,0 +1,13 @@
+[
+    { "nombre": "Avengers: Endgame", "precio": 19.98 },
+    { "nombre": "Interstellar", "precio": 12.99 },
+    { "nombre": "The Lord of the Rings: The Fellowship of the Ring", "precio": 15.99 },
+    { "nombre": "The Dark Knight Rises", "precio": 14.99 },
+    { "nombre": "Avatar", "precio": 11.99 },
+    { "nombre": "El rey Leon", "precio": 9.99 },
+    { "nombre": "Forrest Gump", "precio": 10.99 },
+    { "nombre": "Toy Story", "precio": 17.99 },
+    { "nombre": "Gladiator", "precio": 13.99 },
+    { "nombre": "Frozen", "precio": 16.99 }
+  ]
+  
